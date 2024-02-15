@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi 👋
+
+🔭 I’m currently an Engineering Physics Student 
+
 
 <!--
 **HaraldCaap/HaraldCaap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
